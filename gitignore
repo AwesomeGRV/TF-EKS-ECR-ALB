@@ -1,3 +1,6 @@
-.terraform.lock.hcl
-.terraform/
-environment/
+terraform.tfstate
+terraform.tfstate.backup
+terraform.tfstate.*.backup
+.terraform.tfstate.lock.info
+kubeconfig*
+.terraform
